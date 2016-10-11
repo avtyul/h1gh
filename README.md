@@ -9,7 +9,7 @@ cd h1gh/
 ```
 
 ## FAQ
-port =  3000
+> App started on port 3000
 
 POST a JSON
 ```
