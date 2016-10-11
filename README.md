@@ -9,7 +9,7 @@ cd h1gh/
 ```
 
 ## FAQ
-Server listens port 3000
+port =  3000
 
 POST a JSON
 ```
