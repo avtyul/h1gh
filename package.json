@@ -1,0 +1,23 @@
+{
+  "name": "h1gh",
+  "version": "1.0.0",
+  "description": "highload hw 2 server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avtyul/h1gh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avtyul/h1gh/issues"
+  },
+  "homepage": "https://github.com/avtyul/h1gh#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pi-number": "^1.0.0"
+  }
+}
