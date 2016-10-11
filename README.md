@@ -2,7 +2,11 @@
 Node.js, express
 
 ## Install
-    ./install.sh
+```
+git clone https://github.com/avtyul/h1gh.git
+cd h1gh/
+./install.sh
+```
 
 ## FAQ
 Server listens port 3000
@@ -13,5 +17,7 @@ POST a JSON
   "digits": 3
 }
 ```
-Server retuns
-    3.14
+Server returns
+```
+3.14
+```
