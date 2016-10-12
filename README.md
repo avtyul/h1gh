@@ -11,12 +11,11 @@ cd h1gh/
 ## FAQ
 > App started on port 3000
 
-POST a JSON
+## GET localhost:3000/:digits
 ```
-{
-  "digits": 3
-}
+curl localhost:3000/3
 ```
+
 Server returns
 ```
 3.14
