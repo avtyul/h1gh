@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/:digits', (req, res) => {
-  console.log(++counter);
+  console.log(`${++counter} : ${req.params.digits}`);
   if (req.params.digits > 12345) {
     res.send('Too much');
   }
