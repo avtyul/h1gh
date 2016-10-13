@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/avtyul/h1gh#readme",
   "dependencies": {
+    "connect-datadog": "0.0.6",
     "express": "^4.14.0",
     "pi-number": "^1.0.0"
   }
